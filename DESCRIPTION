@@ -6,7 +6,7 @@ Author: Simon LEONARD
 Maintainer: Simon Leonard <simon_leonard@hotmail.fr>
 Description: Flexible Dotplot and Pacman plot for multimodal data
 Depends:
-    R (>= 3.6.3),
+    R (>= 3.6.1),
     shiny,
     shinydashboard,
 	shinyWidgets,
